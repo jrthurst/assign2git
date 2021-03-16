@@ -1,7 +1,5 @@
 # assign2git
-John Thurstonson
-
-First comment    
-This is a change on newbranch  
+John Thurstonson  
+  
+First comment      
 testbranch change   
-change  
